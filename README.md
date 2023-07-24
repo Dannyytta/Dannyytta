@@ -1,7 +1,8 @@
 ### Hola a todos!!! 👋
 ### Soy Daniela y me estoy certificando en Ruby On Rails 🌱
-### Siempre estoy en la busqueda de nuevos conociemientos para potenciar mis proyectos y negocios 🔭
+### Siempre estoy en la búsqueda de nuevos conocimientos para potenciar mis proyectos y negocios 🔭
 ### Te invito a ver mi portafolio ....
+
 
 <!--
 **Dannyytta/Dannyytta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
