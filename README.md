@@ -1,5 +1,5 @@
 ### Hola a todos!!! 👋
-### Soy Daniela y me estoy certificando en Ruby On Rails 🌱
+### Soy Daniela certificanda en Ruby On Rails 🌱
 ### Siempre estoy en la búsqueda de nuevos conocimientos para potenciar mis proyectos y negocios 🔭
 ### Te invito a ver mi portafolio .... https://dannyytta.github.io/
 
